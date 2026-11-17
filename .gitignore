@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Дубли исходных изображений, уже включённых в веб-версии
+*-source-images.zip
+
+# Крупные готовые материалы публикуются в GitHub Releases
+/t1-*/*.pdf
+/t1-*/*-16K.pptx
+/t1-*/*-slides-16K.zip
+/t1-*/*-web.zip
