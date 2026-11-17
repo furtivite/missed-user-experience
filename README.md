@@ -13,8 +13,8 @@
 
 | Доклад | Веб-версия | PDF | PowerPoint |
 |---|---|---|---|
-| Егор Левченко — «Пользовательский опыт, который мы пропускаем» | [Открыть](t1-egor/web/index.html) | [Скачать](https://github.com/furtivite/missed-user-experience/releases/download/impulse-t1-2026/t1-egor.pdf) | [Скачать](https://github.com/furtivite/missed-user-experience/releases/download/impulse-t1-2026/t1-egor-16K.pptx) |
-| Антон Чигарев — «Невизуальная доступность на практике» | [Открыть](t1-anton/web/index.html) | [Скачать](https://github.com/furtivite/missed-user-experience/releases/download/impulse-t1-2026/t1-anton.pdf) | [Скачать](https://github.com/furtivite/missed-user-experience/releases/download/impulse-t1-2026/t1-anton-16K.pptx) |
+| Егор Левченко — «Пользовательский опыт, который мы пропускаем» | [Скачать ZIP](https://github.com/furtivite/missed-user-experience/releases/download/impulse-t1-2026/t1-egor-web.zip) | [Скачать](https://github.com/furtivite/missed-user-experience/releases/download/impulse-t1-2026/t1-egor.pdf) | [Скачать](https://github.com/furtivite/missed-user-experience/releases/download/impulse-t1-2026/t1-egor-16K.pptx) |
+| Антон Чигарев — «Невизуальная доступность на практике» | [Скачать ZIP](https://github.com/furtivite/missed-user-experience/releases/download/impulse-t1-2026/t1-anton-web.zip) | [Скачать](https://github.com/furtivite/missed-user-experience/releases/download/impulse-t1-2026/t1-anton.pdf) | [Скачать](https://github.com/furtivite/missed-user-experience/releases/download/impulse-t1-2026/t1-anton-16K.pptx) |
 
 Веб-версии работают локально без сервера и подключения к интернету. Для просмотра нужно открыть `index.html` и сохранить рядом всю папку `web`. Интернет потребуется только для перехода по внешним ссылкам.
 
@@ -50,8 +50,8 @@
 
 ZIP-архивы веб-версий и изображения всех слайдов в высоком разрешении опубликованы в [релизе «Материалы докладов — Импульс Т1 2026»](https://github.com/furtivite/missed-user-experience/releases/tag/impulse-t1-2026). Подробности приведены в инструкциях:
 
-- [материалы Егора](t1-egor/Открыть%20презентацию.txt);
-- [материалы Антона](t1-anton/Открыть%20презентацию.txt).
+- [материалы Егора](t1-egor/README.md);
+- [материалы Антона](t1-anton/README.md).
 
 Источники и лицензии:
 
