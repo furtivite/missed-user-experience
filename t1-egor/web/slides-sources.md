@@ -1,8 +1,8 @@
 # Все ссылки к докладу «Пользовательский опыт, который мы пропускаем»
 
-Источник: `slides-base.md`, редакция из 82 слайдов. Дата составления: 25 октября 2026 года.
+Источник: `slides-base-3.md`, редакция из 82 слайдов. Дата составления: 25 октября 2026 года.
 
-Номера слайдов указаны по презентации `slides.md` (93 слайда, включая скрытые). В заголовке каждого раздела в скобках — номер и заголовок слайда в наборе `slides-base-3.md`. Разделы идут в порядке слайдов презентации.
+Номера слайдов указаны по итоговой веб-презентации `index.html` (92 слайда). В заголовке каждого раздела в скобках — номер и заголовок слайда в наборе `slides-base-3.md`. Разделы идут в порядке слайдов презентации.
 
 Включены **все 76 уникальных URL** из слайдов и полных заметок докладчика: **199 упоминаний**. Повторения одной ссылки внутри одного слайда объединены в списке номеров; количество упоминаний сохранено отдельно.
 
@@ -18,13 +18,13 @@
 | S004 | [https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html](https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html) | 14, 15, 16, 17, 61 | 5 |
 | S005 | [https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html](https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html) | 15, 55, 56, 61, 63, 64, 65, 66, 68, 87, 88 | 11 |
 | S006 | [https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html](https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html) | 15, 40, 43, 44, 45, 50, 51, 68, 69 | 7 |
-| S007 | [https://www.w3.org/TR/WCAG22/#conformance-reqs](https://www.w3.org/TR/WCAG22/#conformance-reqs) | 20, 23, 27, 33, 37, 41, 73, 85, 89, 90, 91, 92 | 11 |
+| S007 | [https://www.w3.org/TR/WCAG22/#conformance-reqs](https://www.w3.org/TR/WCAG22/#conformance-reqs) | 20, 23, 27, 33, 37, 41, 73, 85, 89, 90, 91 | 11 |
 | S008 | [https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html](https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html) | 22, 26 | 2 |
 | S009 | [https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html](https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html) | 22, 26, 46 | 3 |
 | S010 | [https://www.garant.ru/products/ipo/prime/doc/413512136/](https://www.garant.ru/products/ipo/prime/doc/413512136/) | 26 | 1 |
 | S011 | [https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html](https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html) | 26, 48, 50, 51, 81, 84 | 5 |
 | S012 | [https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.html](https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.html) | 26, 49, 50, 51, 77 | 4 |
-| S013 | [https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html) | 26, 93 | 2 |
+| S013 | [https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html) | 26, 92 | 2 |
 | S014 | [https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html](https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html) | 26, 58 | 2 |
 | S015 | [https://digital-strategy.ec.europa.eu/en/policies/web-accessibility](https://digital-strategy.ec.europa.eu/en/policies/web-accessibility) | 28 | 1 |
 | S016 | [https://eur-lex.europa.eu/eli/dir/2019/882/oj](https://eur-lex.europa.eu/eli/dir/2019/882/oj) | 28 | 1 |
@@ -210,7 +210,7 @@
 - **S018:** [Источник](https://www.consilium.europa.eu/en/policies/accessibility-goods-services/) — https://www.consilium.europa.eu/en/policies/accessibility-goods-services/
 - **S017:** [Источник](https://www.ada.gov/resources/2024-03-08-web-rule/) — https://www.ada.gov/resources/2024-03-08-web-rule/
 - **S019:** [Federal Register 2026-07663: Extension of Compliance Dates](https://www.govinfo.gov/app/details/FR-2026-04-20/2026-07663) — https://www.govinfo.gov/app/details/FR-2026-04-20/2026-07663
-  Временное правило (interim final rule) Министерства юстиции США, вступило в силу 20.04.2026, отзывы принимались до 22.06.2026. Переносит на год сроки соответствия WCAG 2.1 AA по ADA Title II: 26.04.2027 — для штатов и местных властей с населением от 50 000 человек (было 24.04.2026); 26.04.2028 — для населения меньше 50 000 и специальных округов (было 26.04.2027). Сам стандарт и остальные положения правила 2024 года не изменились. Перед выступлением проверить, не вышло ли окончательное правило.
+  Временное правило (interim final rule) Министерства юстиции США вступило в силу 20.04.2026, отзывы принимались до 22.06.2026. Оно переносит на год сроки соответствия WCAG 2.1 AA по ADA Title II: 26.04.2027 — для штатов и местных властей с населением от 50 000 человек (было 24.04.2026); 26.04.2028 — для населения меньше 50 000 и специальных округов (было 26.04.2027). Сам стандарт и остальные положения правила 2024 года не изменились. По состоянию на 17.11.2026 эти сроки закреплены в действующей редакции 28 CFR 35.200; отдельное окончательное правило по итогам сбора отзывов не опубликовано.
 
 ### Слайд 28. Мировая практика (в наборе — слайд 24. Китай и Япония: свои механизмы доступности)
 
@@ -551,14 +551,14 @@
 
 - **S007:** [WCAG 2.2: требования к соответствию, раздел 5.2](https://www.w3.org/TR/WCAG22/#conformance-reqs) — https://www.w3.org/TR/WCAG22/#conformance-reqs
 
-### Слайд 91–92. Что каждая роль приносит в результат / Доступность должна переживать передачу работы между людьми. (в наборе — слайд 81. Что каждая роль приносит в результат)
+### Слайд 91. Что каждая роль приносит в результат (в наборе — слайд 81. Что каждая роль приносит в результат)
 
 - **S007:** [WCAG 2.2: требования к соответствию, раздел 5.2](https://www.w3.org/TR/WCAG22/#conformance-reqs) — https://www.w3.org/TR/WCAG22/#conformance-reqs
 
-### Слайд 93. Спасибо! (в наборе — слайд 82. Спасибо!)
+### Слайд 92. Спасибо! (в наборе — слайд 82. Спасибо!)
 
 - **S013:** [1.1.1 Non-text Content — A](https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html) — https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html
 
-## Что ещё не заполнено
+## Контакт на финальном слайде
 
-На финальном слайде 93 остаётся пометка «Адрес канала — добавить». Это не URL, поэтому она не включена в указатель. После добавления Telegram-ссылки указатель необходимо обновить.
+На финальном слайде 92 указан Telegram-контакт `@frtvt`; незаполненных контактных данных нет.
